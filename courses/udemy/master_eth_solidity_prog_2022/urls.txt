@@ -1,0 +1,11 @@
+Lesson 1. Introduction to Ethereum
+Video: https://andersbrownworth.com/blockchain/ - Blockchain Demo
+
+Lesson 6. Creating an Ethereum Account Using MyEtherWallet(MEW)
+Blog: https://julien-maffre.medium.com/what-is-an-ethereum-keystore-file-86c8c5917b97 - What is an Ethereum keystore file?
+
+Lesson 8. Rinkeby Authenticated Fauce
+Web: https://faucet.rinkeby.io/ - Rinkeby Authenticated Faucet
+Web: https://faucets.chain.link/rinkeby - Chainlink Faucets
+Web: https://www.ethgasstation.info/ - Recommended priority fee in Gwei
+
